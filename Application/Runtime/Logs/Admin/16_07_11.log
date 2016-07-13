@@ -1,0 +1,2249 @@
+[ 2016-07-11T08:35:32+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-07-11T08:35:35+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: login E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2016-07-11T08:35:35+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: vertify E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:35:42+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=login&t=0.7787182001529587
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: login E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+
+[ 2016-07-11T08:35:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001001s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.085004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-11T08:35:44+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: login_task E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Common\Common\common.php 第 467 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\heiid.com\Application\Admin\Controller\SystemController.class.php 第 300 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:35:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: welcome E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined index: version E:\www\heiid.com\Application\Admin\Controller\IndexController.class.php 第 68 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:35:49+08:00 ] 127.0.0.1 /index.php/Admin/Article/articleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: articleList E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-11T08:35:51+08:00 ] 127.0.0.1 /index.php/Admin/Article/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: cat_id E:\www\heiid.com\Application\Admin\Controller\ArticleController.class.php 第 78 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: URL_home E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 74 行.
+NOTIC: [8] Undefined index: title E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 106 行.
+NOTIC: [8] Undefined index: thumb E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 120 行.
+NOTIC: [8] Undefined index: keywords E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 125 行.
+NOTIC: [8] Undefined index: link E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 150 行.
+NOTIC: [8] Undefined index: is_open E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 150 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 153 行.
+NOTIC: [8] Undefined index: is_open E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 153 行.
+NOTIC: [8] Undefined index: description E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 160 行.
+NOTIC: [8] Undefined index: content E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 167 行.
+NOTIC: [8] Undefined index: article_id E:\www\heiid.com\Application\Runtime\Cache\Admin\196624a5e847e2937e1c838922a58765.php 第 174 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.155009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-11T08:36:02+08:00 ] 127.0.0.1 /index.php?m=Admin&c=UpgradeLogic&a=OneKeyUpgrade
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+NOTIC: [2] mkdir(): File exists E:\www\heiid.com\Application\Common\Common\function.php 第 227 行.
+
+[ 2016-07-11T08:36:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002001s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:36:07+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: login_task E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Common\Common\common.php 第 502 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\heiid.com\Application\Admin\Controller\SystemController.class.php 第 300 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:36:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: welcome E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined index: version E:\www\heiid.com\Application\Admin\Controller\IndexController.class.php 第 68 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:36:10+08:00 ] 127.0.0.1 /index.php/Admin/Heiid/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/heiid E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/heiid E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001001s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:36:12+08:00 ] 127.0.0.1 /index.php/Admin/Piyao/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:36:13+08:00 ] 127.0.0.1 /index.php/Admin/Piyao/coment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: goods_list E:\www\heiid.com\Application\Admin\Controller\PiyaoController.class.php 第 76 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:36:13+08:00 ] 127.0.0.1 /index.php/Admin/Pinglun/ajaxindex/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/pinglun E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/pinglun E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: goods_list E:\www\heiid.com\Application\Admin\Controller\PinglunController.class.php 第 142 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:36:16+08:00 ] 127.0.0.1 /index.php/Admin/Wechat/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] date() expects parameter 2 to be long, string given E:\www\heiid.com\Application\Runtime\Cache\Admin\138883f8411c83891319bcbaf8069345.php 第 127 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' E:\www\heiid.com\Application\Runtime\Cache\Admin\138883f8411c83891319bcbaf8069345.php 第 130 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:36:17+08:00 ] 127.0.0.1 /index.php/Admin/Wechat/img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' E:\www\heiid.com\Application\Runtime\Cache\Admin\a24c24178bc1daba47f3c41b8c4bbc7f.php 第 133 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:36:18+08:00 ] 127.0.0.1 /index.php/Admin/System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-11T08:36:18+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:36:19+08:00 ] 127.0.0.1 /index.php/Admin/System/index/inc_type/distribut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant condition - assumed 'condition' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 118 行.
+NOTIC: [8] Use of undefined constant condition - assumed 'condition' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 120 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+NOTIC: [8] Use of undefined constant date - assumed 'date' E:\www\heiid.com\Application\Runtime\Cache\Admin\2389527465ff93093ce760626239a071.php 第 191 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:36:19+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:08+08:00 ] 127.0.0.1 /index.php/Admin/System/index/inc_type/water
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: mark_type E:\www\heiid.com\Application\Runtime\Cache\Admin\2ec41eec95346a1306a942648c95ba5f.php 第 134 行.
+NOTIC: [8] Undefined index: mark_type E:\www\heiid.com\Application\Runtime\Cache\Admin\2ec41eec95346a1306a942648c95ba5f.php 第 135 行.
+NOTIC: [8] Undefined index: mark_type E:\www\heiid.com\Application\Runtime\Cache\Admin\2ec41eec95346a1306a942648c95ba5f.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:08+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:08+08:00 ] 127.0.0.1 /index.php/Admin/System/index/inc_type/smtp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:08+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:09+08:00 ] 127.0.0.1 /index.php/Admin/System/index/inc_type/shopping
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001001s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant point_rate - assumed 'point_rate' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 117 行.
+NOTIC: [8] Use of undefined constant point_rate - assumed 'point_rate' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 118 行.
+NOTIC: [8] Use of undefined constant point_rate - assumed 'point_rate' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 119 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Use of undefined constant auto_confirm_date - assumed 'auto_confirm_date' E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+NOTIC: [8] Undefined index: auto_confirm_date E:\www\heiid.com\Application\Runtime\Cache\Admin\b8a6a5f0d49105a5691fc6ebbc2900ad.php 第 126 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:09+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:09+08:00 ] 127.0.0.1 /index.php/Admin/System/index/inc_type/sms
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: sms_appkey E:\www\heiid.com\Application\Runtime\Cache\Admin\3b9830bdd0e6fa37169446984e74a202.php 第 110 行.
+NOTIC: [8] Undefined index: sms_secretKey E:\www\heiid.com\Application\Runtime\Cache\Admin\3b9830bdd0e6fa37169446984e74a202.php 第 117 行.
+NOTIC: [8] Undefined index: sms_product E:\www\heiid.com\Application\Runtime\Cache\Admin\3b9830bdd0e6fa37169446984e74a202.php 第 123 行.
+NOTIC: [8] Undefined index: sms_templateCode E:\www\heiid.com\Application\Runtime\Cache\Admin\3b9830bdd0e6fa37169446984e74a202.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:10+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:10+08:00 ] 127.0.0.1 /index.php/Admin/System/index/inc_type/basic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant file_size - assumed 'file_size' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 115 行.
+NOTIC: [8] Use of undefined constant file_size - assumed 'file_size' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 116 行.
+NOTIC: [8] Use of undefined constant file_size - assumed 'file_size' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 117 行.
+NOTIC: [8] Use of undefined constant file_size - assumed 'file_size' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 118 行.
+NOTIC: [8] Use of undefined constant file_size - assumed 'file_size' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 119 行.
+NOTIC: [8] Use of undefined constant file_size - assumed 'file_size' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 120 行.
+NOTIC: [8] Use of undefined constant file_size - assumed 'file_size' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 121 行.
+NOTIC: [8] Use of undefined constant is_remind - assumed 'is_remind' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 147 行.
+NOTIC: [8] Use of undefined constant is_remind - assumed 'is_remind' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 148 行.
+NOTIC: [8] Use of undefined constant app_test - assumed 'app_test' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 172 行.
+NOTIC: [8] Use of undefined constant app_test - assumed 'app_test' E:\www\heiid.com\Application\Runtime\Cache\Admin\dd180a00c48425e3c711579b566d9ec4.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:10+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:10+08:00 ] 127.0.0.1 /index.php/Admin/System/index/inc_type/shop_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:10+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:20+08:00 ] 127.0.0.1 /index.php/Admin/System/navigationList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: show E:\www\heiid.com\Application\Runtime\Cache\Admin\ca23b472cbbe2f784b5c92242c258da9.php 第 139 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:21+08:00 ] 127.0.0.1 /index.php/Admin/System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:21+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:24+08:00 ] 127.0.0.1 /index.php/Admin/System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:24+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:27+08:00 ] 127.0.0.1 /index.php/Admin/Article/categoryList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: categoryList E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-11T08:38:27+08:00 ] 127.0.0.1 /index.php/Admin/Article/articleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: articleList E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:28+08:00 ] 127.0.0.1 /index.php/Admin/Article/linkList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: p E:\www\heiid.com\Application\Admin\Controller\ArticleController.class.php 第 187 行.
+NOTIC: [8] Undefined index: limit E:\www\heiid.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 950 行.
+NOTIC: [8] Undefined variable: list E:\www\heiid.com\Application\Admin\Controller\ArticleController.class.php 第 194 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-11T08:38:28+08:00 ] 127.0.0.1 /index.php/Admin/Topic/topicList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: p E:\www\heiid.com\Application\Admin\Controller\TopicController.class.php 第 47 行.
+NOTIC: [8] Undefined index: limit E:\www\heiid.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 950 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:31+08:00 ] 127.0.0.1 /index.php/Admin/Ad/positionList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' E:\www\heiid.com\Application\Runtime\Cache\Admin\e86a261d7612c0adebb99b0365675fb2.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:31+08:00 ] 127.0.0.1 /index.php/Admin/Ad/adList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: level E:\www\heiid.com\ThinkPHP\Library\Think\Template\TagLib\Tpshop.class.php 第 155 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 150 行.
+NOTIC: [8] Use of undefined constant pid - assumed 'pid' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant position_name - assumed 'position_name' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 151 行.
+NOTIC: [8] Use of undefined constant target - assumed 'target' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 156 行.
+NOTIC: [8] Use of undefined constant enabled - assumed 'enabled' E:\www\heiid.com\Application\Runtime\Cache\Admin\9dcb80a295485a90dd49f9b2b975f801.php 第 159 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-11T08:38:33+08:00 ] 127.0.0.1 /index.php/Admin/Coupon/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 137 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 137 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 138 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 137 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 137 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 138 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 137 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 128 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 136 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\38613d26be0d7580d78b3110a175a584.php 第 137 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:34+08:00 ] 127.0.0.1 /index.php/Admin/Promotion/group_buy_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: list E:\www\heiid.com\Application\Admin\Controller\PromotionController.class.php 第 216 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:34+08:00 ] 127.0.0.1 /index.php/Admin/Promotion/flash_sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: flash_sale E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:35+08:00 ] 127.0.0.1 /index.php/Admin/Promotion/prom_order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: prom_order_list E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\862b5145b07e0ab813827989f5d2e3d9.php 第 124 行.
+NOTIC: [8] Undefined index: group_name E:\www\heiid.com\Application\Runtime\Cache\Admin\862b5145b07e0ab813827989f5d2e3d9.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:35+08:00 ] 127.0.0.1 /index.php/Admin/Promotion/prom_goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: prom_goods_list E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: prom_list E:\www\heiid.com\Application\Admin\Controller\PromotionController.class.php 第 56 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:37+08:00 ] 127.0.0.1 /index.php/Admin/Promotion/prom_order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: prom_order_list E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' E:\www\heiid.com\Application\Runtime\Cache\Admin\862b5145b07e0ab813827989f5d2e3d9.php 第 124 行.
+NOTIC: [8] Undefined index: group_name E:\www\heiid.com\Application\Runtime\Cache\Admin\862b5145b07e0ab813827989f5d2e3d9.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:37+08:00 ] 127.0.0.1 /index.php/Admin/Promotion/flash_sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: flash_sale E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:38+08:00 ] 127.0.0.1 /index.php/Admin/Promotion/prom_goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: prom_goods_list E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: prom_list E:\www\heiid.com\Application\Admin\Controller\PromotionController.class.php 第 56 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:40+08:00 ] 127.0.0.1 /index.php/Admin/Tools/restore
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:40+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: bank_code E:\www\heiid.com\Application\Admin\Controller\PluginController.class.php 第 194 行.
+NOTIC: [8] Undefined index: scene E:\www\heiid.com\Application\Admin\Controller\PluginController.class.php 第 196 行.
+NOTIC: [8] Undefined index: config E:\www\heiid.com\Application\Admin\Controller\PluginController.class.php 第 197 行.
+NOTIC: [8] Undefined index: bank_code E:\www\heiid.com\Application\Admin\Controller\PluginController.class.php 第 194 行.
+NOTIC: [8] Undefined index: scene E:\www\heiid.com\Application\Admin\Controller\PluginController.class.php 第 196 行.
+NOTIC: [8] Undefined index: config E:\www\heiid.com\Application\Admin\Controller\PluginController.class.php 第 197 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:42+08:00 ] 127.0.0.1 /index.php/Admin/Order/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:42+08:00 ] 127.0.0.1 /index.php/Admin/order/ajaxindex/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ajaxindex E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [2] urlencode() expects parameter 1 to be string, array given E:\www\heiid.com\Application\Admin\Controller\OrderController.class.php 第 72 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:42+08:00 ] 127.0.0.1 /index.php/Admin/Order/delivery_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:42+08:00 ] 127.0.0.1 /index.php/Admin/order/ajaxdelivery/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ajaxdelivery E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [2] urlencode() expects parameter 1 to be string, array given E:\www\heiid.com\Application\Admin\Controller\OrderController.class.php 第 99 行.
+NOTIC: [2] urlencode() expects parameter 1 to be string, array given E:\www\heiid.com\Application\Admin\Controller\OrderController.class.php 第 99 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:42+08:00 ] 127.0.0.1 /index.php/Admin/Order/return_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:42+08:00 ] 127.0.0.1 /index.php/Admin/order/ajax_return_list/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ajax_return_list E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: goods_list E:\www\heiid.com\Application\Admin\Controller\OrderController.class.php 第 495 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:43+08:00 ] 127.0.0.1 /index.php/Admin/Order/add_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: province E:\www\heiid.com\Application\Admin\Controller\OrderController.class.php 第 725 行.
+NOTIC: [8] Undefined index: city E:\www\heiid.com\Application\Admin\Controller\OrderController.class.php 第 727 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 124 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 155 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 168 行.
+NOTIC: [8] Use of undefined constant shipping_code - assumed 'shipping_code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 182 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 182 行.
+NOTIC: [8] Use of undefined constant code - assumed 'code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 182 行.
+NOTIC: [8] Use of undefined constant shipping_code - assumed 'shipping_code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 182 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 182 行.
+NOTIC: [8] Use of undefined constant code - assumed 'code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 182 行.
+NOTIC: [8] Use of undefined constant pay_code - assumed 'pay_code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant code - assumed 'code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant pay_code - assumed 'pay_code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant code - assumed 'code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant pay_code - assumed 'pay_code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant code - assumed 'code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant pay_code - assumed 'pay_code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant code - assumed 'code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant pay_code - assumed 'pay_code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Use of undefined constant code - assumed 'code' E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 194 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 205 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 247 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 307 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 308 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 309 行.
+NOTIC: [8] Undefined variable: order E:\www\heiid.com\Application\Runtime\Cache\Admin\18fae657f4249d54359c1a2b2e3963a5.php 第 310 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:43+08:00 ] 127.0.0.1 /index.php/Admin/Template/templateList/t/pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: templateList E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:44+08:00 ] 127.0.0.1 /index.php/Admin/Template/templateList/t/mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: templateList E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:45+08:00 ] 127.0.0.1 /index.php/Admin/Template/templateList/t/pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: templateList E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:48+08:00 ] 127.0.0.1 /index.php/Admin/report/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Division by zero E:\www\heiid.com\Application\Admin\Controller\ReportController.class.php 第 46 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:48+08:00 ] 127.0.0.1 /index.php/Admin/report/saleTop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: page E:\www\heiid.com\Application\Runtime\Cache\Admin\1c7f6ad5c6e298278a58ab734f61bb63.php 第 144 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:49+08:00 ] 127.0.0.1 /index.php/Admin/report/userTop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: page E:\www\heiid.com\Application\Runtime\Cache\Admin\7918c958ea9dd0c172acd9ce9fa646aa.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-11T08:38:49+08:00 ] 127.0.0.1 /index.php/Admin/report/finance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:50+08:00 ] 127.0.0.1 /index.php/Admin/report/finance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:38:51+08:00 ] 127.0.0.1 /index.php/Admin/Piyao/coment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: goods_list E:\www\heiid.com\Application\Admin\Controller\PiyaoController.class.php 第 76 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:51+08:00 ] 127.0.0.1 /index.php/Admin/Pinglun/ajaxindex/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: admin/pinglun E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/pinglun E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: goods_list E:\www\heiid.com\Application\Admin\Controller\PinglunController.class.php 第 142 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:52+08:00 ] 127.0.0.1 /index.php/Admin/Piyao/coment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: goods_list E:\www\heiid.com\Application\Admin\Controller\PiyaoController.class.php 第 76 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:52+08:00 ] 127.0.0.1 /index.php/Admin/Pinglun/ajaxindex/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/pinglun E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/pinglun E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined variable: goods_list E:\www\heiid.com\Application\Admin\Controller\PinglunController.class.php 第 142 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:52+08:00 ] 127.0.0.1 /index.php/Admin/Piyao/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/piyao E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:38:55+08:00 ] 127.0.0.1 /index.php/Admin/Chengxin/daikuan
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./Application/Admin/View/Chengxin/index.html
+
+[ 2016-07-11T08:38:55+08:00 ] 127.0.0.1 /index.php/Admin/Chengxin/zuche
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+ERR: 非法操作:zuche
+
+[ 2016-07-11T08:38:55+08:00 ] 127.0.0.1 /index.php/Admin/Chengxin/zhusu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+ERR: 非法操作:zhusu
+
+[ 2016-07-11T08:38:56+08:00 ] 127.0.0.1 /index.php/Admin/Chengxin/jiaoyou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+ERR: 非法操作:jiaoyou
+
+[ 2016-07-11T08:38:56+08:00 ] 127.0.0.1 /index.php/Admin/Chengxin/jiaoyou
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+ERR: 非法操作:jiaoyou
+
+[ 2016-07-11T08:38:56+08:00 ] 127.0.0.1 /index.php/Admin/Chengxin/zhaopin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/chengxin E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+ERR: 非法操作:zhaopin
+
+[ 2016-07-11T08:39:03+08:00 ] 127.0.0.1 /index.php/Admin/System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-11T08:39:03+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/api E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:39:04+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Uploadify&a=upload&num=1&input=store_logo&path=logo&func=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: admin/uploadify E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/uploadify E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-11T08:39:20+08:00 ] 127.0.0.1 /index.php/Admin/Ueditor/imageUp/savepath/logo/pictitle/banner/dir/images
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: admin/ueditor E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/ueditor E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+NOTIC: [8] Undefined index: pictitle E:\www\heiid.com\Application\Admin\Controller\UeditorController.class.php 第 270 行.
+NOTIC: [8] Undefined index: dir E:\www\heiid.com\Application\Admin\Controller\UeditorController.class.php 第 271 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\www\heiid.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2016-07-11T08:39:58+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Uploadify&a=upload&num=1&input=store_logo&path=logo&func=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: admin/uploadify E:\www\heiid.com\Application\Admin\Common\function.php 第 70 行.
+NOTIC: [8] Undefined index: admin/uploadify E:\www\heiid.com\Application\Admin\Common\function.php 第 71 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
